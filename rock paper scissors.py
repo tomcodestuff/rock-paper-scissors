@@ -9,7 +9,6 @@ while True:
 
     game = ('Rock','Paper','Scissors')
     comp_answer = random.choice(game)
-    print(comp_answer)
 
     answer = input('Answer: ')
 
